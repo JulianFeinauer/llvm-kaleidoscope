@@ -9,6 +9,13 @@
 Adopt the LLVM path in `CMakeLists.txt` accordingly.
 Then just build the project.
 
+E.g. using
+
+```
+cmake -S . -B build
+cmake --build build
+```
+
 Start the shell with
 
 ```
